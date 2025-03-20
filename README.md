@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&customColorList=4height=300&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&customColorList=4height=300&section=header&text=Hello&fontColor=ffffff&fontSize=90)
 
 <!---
 Sky2Walker/Sky2Walker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
