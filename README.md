@@ -41,7 +41,7 @@ Student in kherson State University | Bachelors dergree of Cumputer Science
 
 
 
-
+</td></tr></table>  
 
 <br/>  
 
