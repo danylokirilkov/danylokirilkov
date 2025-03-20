@@ -12,9 +12,7 @@ Student in kherson State University | Bachelors dergree of Cumputer Science
 * 🧠  I'm learning Laravel
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/danylokirilkov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
